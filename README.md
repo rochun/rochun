@@ -2,5 +2,5 @@
 - 👀 I’m interested in Software Engineering opportunities
 - 📍 Currently in Los Angeles (willing to relocate or be remote)
 - 📫 How to reach me ...
-  - roycechu@usc.edu
+  - royce.h.chun@gmail.com
   - <a href="https://www.linkedin.com/in/royce-chun/">LinkedIn</a>
