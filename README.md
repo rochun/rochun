@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Royce
+- 👀 I’m interested in Software Engineering Opportunities
+- 📍 Currently in Los Angeles (willing to relocate or be remote)
+- 📫 How to reach me ...
+  - royce.h.chun@gmail.com
+  - <a href="https://www.linkedin.com/in/royce-chun/">LinkedIn</a>
