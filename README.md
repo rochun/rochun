@@ -2,7 +2,7 @@
 
  🧑🏻‍💻 My name is Royce and I am a professional software engineer!
  
- 🔭 I'm currently working on my portfolio website and 
+ 🔭 I'm currently working on my portfolio website 
  
  🌱 Some of my previous work:
  - [Apples2Oranges](https://github.com/anthonycella/predicting_parkinsons)
@@ -17,5 +17,5 @@
  🛹 Fun fact: I know how to skateboard, surf, and snowboard!
  
  📫 How to reach me:
-  1. Connect with my on [LinkedIn](https://www.linkedin.com/in/royce-chun/)
+  1. Connect with me on [LinkedIn](https://www.linkedin.com/in/royce-chun/)
   2. Send me an email at royce.h.chun@gmail.com
