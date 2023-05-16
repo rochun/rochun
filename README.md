@@ -19,3 +19,7 @@
  📫 How to reach me:
   1. Connect with me on [LinkedIn](https://www.linkedin.com/in/royce-chun/)
   2. Send me an email at royce.h.chun@gmail.com
+
+
+
+[![Royce's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochun)](https://github.com/anuraghazra/github-readme-stats)
