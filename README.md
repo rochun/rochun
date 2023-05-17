@@ -8,7 +8,7 @@
  - [Apples2Oranges](https://github.com/ph-castle/apples2oranges)
  - [Predicting Credit Card Consumer Retention](https://github.com/rochun/credit-card-retention-prediction)
  - [E-commerce Storefront](https://github.com/SpaceDesigns/Atelier)
- - [Q&A Microservice](https://github.com/Adventure-Org/questions)
+ - [E-commerce Q&A Microservice](https://github.com/Adventure-Org/questions)
 
  🧰 Tools in my toolbox:
  - Frontend: React, Redux, JavaScript, HTML, CSS, Styled Components
