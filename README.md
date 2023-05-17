@@ -5,7 +5,8 @@
  🔭 I'm currently working on my portfolio website 
  
  🌱 Some of my previous work:
- - [Apples2Oranges](https://github.com/anthonycella/predicting_parkinsons)
+ - [Apples2Oranges](https://github.com/ph-castle/apples2oranges)
+ - [Predicting Credit Card Consumer Retention](https://github.com/rochun/credit-card-retention-prediction)
  - [E-commerce Storefront](https://github.com/SpaceDesigns/Atelier)
  - [Q&A Microservice](https://github.com/Adventure-Org/questions)
 
