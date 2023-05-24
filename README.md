@@ -15,7 +15,10 @@
  - Backend: Node.js, Express.js, axios, Python
  - Database: MySQL, PostgreSQL, MongoDB/Mongoose ORM
  
- 🛹 Fun fact: I know how to skateboard, surf, and snowboard!
+ 🛹 Fun facts: 
+ - I like to aquascape
+ - I have a tabby named Momo 
+ - I know how to skateboard, surf, and snowboard
  
  📫 How to reach me:
   1. Connect with me on [LinkedIn](https://www.linkedin.com/in/royce-chun/)
