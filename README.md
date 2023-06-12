@@ -6,6 +6,7 @@
  
  🌱 Some of my previous work:
  - [Apples2Oranges](https://github.com/ph-castle/apples2oranges)
+ - [Voice Recognition Notetaker](https://github.com/rochun/speech-to-text)
  - [Predicting Credit Card Consumer Retention](https://github.com/rochun/credit-card-retention-prediction)
  - [E-commerce Storefront](https://github.com/SpaceDesigns/Atelier)
  - [E-commerce Q&A Microservice](https://github.com/Adventure-Org/questions)
