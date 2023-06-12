@@ -2,8 +2,6 @@
 
  🧑🏻‍💻 My name is Royce and I am a professional software engineer!
  
- 🔭 I'm currently working on my portfolio website 
- 
  🌱 Some of my previous work:
  - [Apples2Oranges](https://github.com/ph-castle/apples2oranges)
  - [Voice Recognition Notetaker](https://github.com/rochun/speech-to-text)
